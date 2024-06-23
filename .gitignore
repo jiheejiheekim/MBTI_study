@@ -54,3 +54,7 @@ temp/
 # SASS/CSS cache
 .sass-cache/
 .parcel-cache/
+
+
+# 무시할 파일 추가
+aa.txt
